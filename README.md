@@ -17,6 +17,11 @@ We hope you find these prompts useful and have fun using Ollama!
 
 ---
 
+-
+
+>
+
+---
 - [Orca do microsoft Word em Português](https://openwebui.com/m/hotnikq/microsoft-orca-2-portugues:latest)
 
 Tudo o que você pode esperar de uma iA da microsoft "Orca2" focada em leitura de arquivos do Word, Excel e Powerpoint.
@@ -57,6 +62,23 @@ Mentor de aulas para Java em português
 
 ---
 
+## Ollama Models Used on this prompts
+A list of all models that I use on Ollama with AMD ROCm 16GB GPU
+- openchat:7b-v3.5-1210-q5_K_M
+- dolphin-mixtral:8x7b-v2.7-q4_K_M
+- llama3:8b-instruct-q6_K
+- dolphin-llama3:8b-256k-v2.9-q6_K
+- deepseek-coder:6.7b-instruct-q8_0
+- orca2:13b-q4_K_M
+- qwen:14b-chat-v1.5-q4_K_M
+- promptengineer48/biomistral
+- llava:13b
+
+## Extra Ollama Models
+- codeqwen:7b-code-v1.5-q8_0
+
+---
+
 ## GGUF
 Dont use system prompt on GGUF models
 
@@ -65,8 +87,10 @@ Dont use templates prompt on GGUF models
 ---
 
 - [Claude Alpaca GGUF](https://openwebui.com/m/hotnikq/claudio-pacas-english:latest)
+
 Download https://huggingface.co/TheBloke/claude2-alpaca-13B-GGUF/tree/main
 
 > FROM /root/.ollama/models/claude2-alpaca-13b.Q8_0.gguf
 
 ---
+
