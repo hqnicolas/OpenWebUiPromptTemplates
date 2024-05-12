@@ -24,4 +24,28 @@ dolphin mixtral aguardando para falar português, fale sobre lógica e MagiCoder
 > FROM dolphin-mixtral:8x7b-v2.7-q4_K_M
 
 ---
- 
+
+## [Leitor De Imagens Llava Em Português](https://openwebui.com/m/hotnikq/leitor-de-imagens-llava-em-portugues:latest)
+modelo de linguagem interpretador de Imagens que fala português.
+> FROM llava:13b
+
+---
+
+## [Professor De Linguagem C ++ Em Português](https://openwebui.com/m/hotnikq/professor-de-linguagem-c++:latest)
+Mentor de aulas para C++ em português
+
+> FROM openchat:7b-v3.5-1210-q5_K_M
+
+---
+
+## 
+
+> 
+
+---
+
+## 
+
+> 
+
+---
