@@ -60,8 +60,9 @@ Dont use templates prompt on GGUF models
 
 ---
 
-- 
+- [Claude Alpaca GGUF](https://openwebui.com/m/hotnikq/claudio-pacas-english:latest)
+Download https://huggingface.co/TheBloke/claude2-alpaca-13B-GGUF/tree/main
 
-> 
+> FROM /root/.ollama/models/claude2-alpaca-13b.Q8_0.gguf
 
 ---
