@@ -16,8 +16,12 @@ Tudo o que você pode esperar de uma iA da microsoft "Orca2" focada em leitura d
 
 > FROM orca2:13b-q4_K_M
 
+---
+
 ## [Golfinho Do Software Em Português](https://openwebui.com/m/hotnikq/golfinho-do-software-em-portugu%C3%AAs:latest)
 dolphin mixtral aguardando para falar português, fale sobre lógica e MagiCoder
 
 > FROM dolphin-mixtral:8x7b-v2.7-q4_K_M
+
+---
  
