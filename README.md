@@ -5,7 +5,17 @@ All templates below were tested with 16GB of memory, you can use these templates
 
 ---
 
-## Ollama Model Files
+## Ollama Models Used on this prompts
+A list of all models that I use on Ollama with AMD ROCm 16GB GPU
+- openchat:7b-v3.5-1210-q5_K_M
+- dolphin-mixtral:8x7b-v2.7-q4_K_M
+- llama3:8b-instruct-q6_K
+- dolphin-llama3:8b-256k-v2.9-q6_K
+- deepseek-coder:6.7b-instruct-q8_0
+- orca2:13b-q4_K_M
+- qwen:14b-chat-v1.5-q4_K_M
+- promptengineer48/biomistral
+- llava:13b
 
 ---
 
@@ -61,18 +71,6 @@ Mentor de aulas para Java em português
 > FROM deepseek-coder:6.7b-instruct-q8_0
 
 ---
-
-## Ollama Models Used on this prompts
-A list of all models that I use on Ollama with AMD ROCm 16GB GPU
-- openchat:7b-v3.5-1210-q5_K_M
-- dolphin-mixtral:8x7b-v2.7-q4_K_M
-- llama3:8b-instruct-q6_K
-- dolphin-llama3:8b-256k-v2.9-q6_K
-- deepseek-coder:6.7b-instruct-q8_0
-- orca2:13b-q4_K_M
-- qwen:14b-chat-v1.5-q4_K_M
-- promptengineer48/biomistral
-- llava:13b
 
 ## Extra Ollama Models
 - codeqwen:7b-code-v1.5-q8_0
