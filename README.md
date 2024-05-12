@@ -2,7 +2,7 @@
   
 <h1 align="center">🧠 Open Web Ui Prompt Templates</h1>
 
-🇧🇷 Templates that change by system prompt on Ollama models to portuguese language. 🇧🇷
+🦙 Templates that change by system prompt on Ollama models to portuguese language. ⚽
 
 All templates below were tested with 16GB of memory, you can use these templates on CPU, ROCm GPU, or CUDA GPU.
 
@@ -158,6 +158,8 @@ Dont use templates prompt on GGUF models
 - [Claude Alpaca GGUF](https://openwebui.com/m/hotnikq/claudio-pacas-english:latest)
 
 Download https://huggingface.co/TheBloke/claude2-alpaca-13B-GGUF/tree/main
+
+/play vuvuzela►
 
 > FROM /root/.ollama/models/claude2-alpaca-13b.Q8_0.gguf
 
