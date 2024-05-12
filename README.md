@@ -159,7 +159,6 @@ Dont use templates prompt on GGUF models
 
 Download https://huggingface.co/TheBloke/claude2-alpaca-13B-GGUF/tree/main
 
-/play vuvuzela►
 
 > FROM /root/.ollama/models/claude2-alpaca-13b.Q8_0.gguf
 
