@@ -1,6 +1,7 @@
 <p align="center"><h1>🧠 Open Web Ui Prompt Templates</h1></p>
 - Templates that change by system prompt on Ollama models to portuguese language.
 - My Openwebui [online REPO](https://openwebui.com/m/hotnikq)
+
 ---
 
 In this repository, you will find a variety of prompts that can be used with OpenWebUi. We encourage you to add your own prompts to the list, and to use Ollama to generate new prompts as well.
