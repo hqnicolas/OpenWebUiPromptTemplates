@@ -13,40 +13,54 @@ We hope you find these prompts useful and have fun using Ollama!
 
 ---
 
-## [Orca do microsoft Word em Português](https://openwebui.com/m/hotnikq/microsoft-orca-2-portugues:latest)
+- [Orca do microsoft Word em Português](https://openwebui.com/m/hotnikq/microsoft-orca-2-portugues:latest)
+
 Tudo o que você pode esperar de uma iA da microsoft "Orca2" focada em leitura de arquivos do Word, Excel e Powerpoint.
 
 > FROM orca2:13b-q4_K_M
 
 ---
 
-## [Golfinho Do Software Em Português](https://openwebui.com/m/hotnikq/golfinho-do-software-em-portugu%C3%AAs:latest)
+- [Golfinho Do Software Em Português](https://openwebui.com/m/hotnikq/golfinho-do-software-em-portugu%C3%AAs:latest)
+
 dolphin mixtral aguardando para falar português, fale sobre lógica e MagiCoder
 
 > FROM dolphin-mixtral:8x7b-v2.7-q4_K_M
 
 ---
 
-## [Leitor De Imagens Llava Em Português](https://openwebui.com/m/hotnikq/leitor-de-imagens-llava-em-portugues:latest)
+- [Leitor De Imagens Llava Em Português](https://openwebui.com/m/hotnikq/leitor-de-imagens-llava-em-portugues:latest)
+
 modelo de linguagem interpretador de Imagens que fala português.
+
 > FROM llava:13b
 
 ---
 
-## [Professor De Linguagem C ++ Em Português](https://openwebui.com/m/hotnikq/professor-de-linguagem-c++:latest)
+- [Professor De Linguagem C ++ Em Português](https://openwebui.com/m/hotnikq/professor-de-linguagem-c++:latest)
+
 Mentor de aulas para C++ em português
 
 > FROM openchat:7b-v3.5-1210-q5_K_M
 
 ---
 
-## [Professor De Linguagem Java Em Portugues](https://openwebui.com/m/hotnikq/professor-de-linguagem-java-em-portugues:latest)
+- [Professor De Linguagem Java Em Portugues](https://openwebui.com/m/hotnikq/professor-de-linguagem-java-em-portugues:latest)
+
 Mentor de aulas para Java em português
+
 > FROM deepseek-coder:6.7b-instruct-q8_0
 
 ---
 
-## 
+## GGUF
+Dont use system prompt on GGUF models
+
+Dont use templates prompt on GGUF models
+
+---
+
+- 
 
 > 
 
