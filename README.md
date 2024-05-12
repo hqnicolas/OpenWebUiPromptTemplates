@@ -27,11 +27,36 @@ We hope you find these prompts useful and have fun using Ollama!
 
 ---
 
--
-
->
+- [Openai Chat Gpt 3.5 Leitor De Pdf](https://openwebui.com/m/hotnikq/openai-chat-gpt-3-5-leitor-de-pdf)
+Leia longos arquivos PDF dentro do Ollama com este dispositivo
+> FROM openchat:7b-v3.5-1210-q5_K_M
 
 ---
+
+- [Facebook Meta Chat Llama 3 Em Portugues](https://openwebui.com/m/hotnikq/meta-chat-llama-3-em-portugues:latest)
+Pergunte ao LLama
+> FROM llama3:8b-instruct-q6_K
+
+---
+
+- [Pequeno Golfinho Llama 3 Em Portugues](https://openwebui.com/m/hotnikq/pequeno-golfinho-llama3-em-portugues:latest)
+Golfinho com conjunto de dados filtrado para remover alinhamento e tendência.
+> FROM dolphin-llama3:8b-256k-v2.9-q6_K
+
+---
+
+- [Mestre De Biologia Em Portugues](https://openwebui.com/m/hotnikq/mestre-de-biologia-em-portugues:latest)
+BioMistral: uma coleção de grandes modelos de linguagem pré-treinados de código aberto para domínios
+> FROM promptengineer48/biomistral
+
+---
+
+- [Professor De Biologia Em Portugues](https://openwebui.com/m/hotnikq/professor-de-biologia-em-portugues:latest)
+modelo criado para estudar medicina e biologia usando OpenAi GPT3.5
+> FROM openchat:7b-v3.5-1210-q5_K_M
+
+---
+
 - [Orca do microsoft Word em Português](https://openwebui.com/m/hotnikq/microsoft-orca-2-portugues:latest)
 
 Tudo o que você pode esperar de uma iA da microsoft "Orca2" focada em leitura de arquivos do Word, Excel e Powerpoint.
