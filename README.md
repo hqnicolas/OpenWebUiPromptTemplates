@@ -40,9 +40,9 @@ Mentor de aulas para C++ em português
 
 ---
 
-## 
-
-> 
+## [Professor De Linguagem Java Em Portugues](https://openwebui.com/m/hotnikq/professor-de-linguagem-java-em-portugues:latest)
+Mentor de aulas para Java em português
+> FROM deepseek-coder:6.7b-instruct-q8_0
 
 ---
 
