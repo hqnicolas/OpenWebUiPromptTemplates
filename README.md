@@ -1,7 +1,7 @@
 <p align="center"><h1>🧠 Open Web Ui Prompt Templates</h1></p>
-- Templates that change by system prompt on Ollama models to portuguese language.
+Templates that change by system prompt on Ollama models to portuguese language.
 
-- All templates below were tested with 16GB of memory, you can use these templates on CPU, ROCm GPU, or CUDA GPU.
+All templates below were tested with 16GB of memory, you can use these templates on CPU, ROCm GPU, or CUDA GPU.
 
 ---
 
