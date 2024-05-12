@@ -5,6 +5,10 @@ All templates below were tested with 16GB of memory, you can use these templates
 
 ---
 
+## Ollama Model Files
+
+---
+
 In [this repository](https://www.openwebui.com/m/hotnikq/), you will find a variety of prompts that can be used with [OpenWebUi](https://openwebui.com/). We encourage you to add your own prompts to the list, and to use Ollama to generate new prompts as well.
 
 To get started, simply clone this repository and use the prompts. You can also use the prompts in this file as inspiration for creating your own.
