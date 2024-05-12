@@ -1,3 +1,6 @@
+<p align="center">
+  <img src=".assets/brtemplate.png" alt="ollama logo" width="250">
+</p>
 <p align="center"><h1>🧠 Open Web Ui Prompt Templates</h1></p>
 🇧🇷 Templates that change by system prompt on Ollama models to portuguese language. 🇧🇷
 
